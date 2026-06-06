@@ -1,8 +1,33 @@
-- 👋 Hi, I’m @prathampatel07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Pratham Patel
+
+Aspiring AI-Powered Full Stack Developer
+
+ Information Technology Student at Parul University
+
+💻 Passionate about Full Stack Development, AI Integration, and building impactful web applications.
+
+ Tech Stack
+
+Languages: Python, Java, JavaScript, SQL, HTML, CSS
+
+Frameworks: MongoDB, Express.js, React.js, Node.js, Tailwind CSS
+
+Tools: Git, GitHub, VS Code, Firebase, Render, Vercel, Figma
+
+AI Tools: ChatGPT, Claude, Cursor, Replit, GitHub Copilot
+                                         Featured Projects
+
+ Gym Buddy - AI-Powered Social Fitness Platform
+
+ CricSenseX - Real-Time Cricket Scoring Platform
+
+ Connect With Me
+
+ pratham.kiyadara@gmail.com
+
+ LinkedIn: linkedin.com/in/pratham-patel-46b285371
+
+ GitHub: github.com/prathampatel07
 
 <!---
 prathampatel07/prathampatel07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
