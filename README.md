@@ -4,9 +4,14 @@ Aspiring AI-Powered Full Stack Developer
 
  Information Technology Student at Parul University
 
-💻 Passionate about Full Stack Development, AI Integration, and building impactful web applications.
+ Passionate about Full Stack Development, AI Integration, and building impactful web applications.
+                                                 ## Beyond the Code
 
- Tech Stack
+Explore my projects, technical skills, certifications, and development journey.
+
+ [Explore My Portfolio] -(https://pratham-portfolio-tech.vercel.app/)
+ 
+Tech Stack
 
 Languages: Python, Java, JavaScript, SQL, HTML, CSS
 
@@ -21,9 +26,9 @@ AI Tools: ChatGPT, Claude, Cursor, Replit, GitHub Copilot
 
  CricSenseX - Real-Time Cricket Scoring Platform
 
- Connect With Me
+Connect With Me
 
- pratham.kiyadara@gmail.com
+ E-mail: pratham.kiyadara@gmail.com
 
  LinkedIn: linkedin.com/in/pratham-patel-46b285371
 
