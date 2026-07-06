@@ -26,6 +26,8 @@ AI Tools: ChatGPT, Claude, Cursor, Replit, GitHub Copilot
 
  CricSenseX - Real-Time Cricket Scoring Platform
 
+ Smart Energy Analytics - AI-Powered Energy Intelligence Platform
+
 Connect With Me
 
  E-mail: pratham.kiyadara@gmail.com
